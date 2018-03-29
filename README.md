@@ -13,7 +13,11 @@ It will start to synchronizing a Full Node. Normally takes ten minutes.
 
 ## Step 4: Create an account
 In the mist, click "Add Account", and type the password
+[![](/assets/Rinkeby%20Account.JPG)](https://github.com/codingtmd/smartcontracttutorial/blob/master/assets/Rinkeby%20Account.JPG)
 
 ## Step 5: Request ETH
 Following the instruction here to get the funding
 https://www.rinkeby.io/#faucet
+[![](/assets/Funded%20Account.JPG)](https://github.com/codingtmd/smartcontracttutorial/blob/master/assets/Funded%20Account.JPG)
+
+
