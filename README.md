@@ -1,4 +1,4 @@
-# smartcontracttutorial
+# Smart Contract Tutorial
 A tutorial of building smart contract on top of ethereum
 
 ##  Step 1: Download Geth and Mist
@@ -20,4 +20,9 @@ Following the instruction here to get the funding
 https://www.rinkeby.io/#faucet
 [![](/assets/Funded%20Account.JPG)](https://github.com/codingtmd/smartcontracttutorial/blob/master/assets/Funded%20Account.JPG)
 
+## Editor Tool
+https://pandao.github.io/editor.md/en.html
 
+## Reference
+1. [How to get on Rinkeby Testnet in less than 10 minutes(linux)](https://gist.github.com/cryptogoth/10a98e8078cfd69f7ca892ddbdcf26bc "How to get on Rinkeby Testnet in less than 10 minutes(linux)")
+2. [rinkeby test network](https://www.rinkeby.io "rinkeby test network")
